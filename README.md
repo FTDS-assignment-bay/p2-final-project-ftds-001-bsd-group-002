@@ -45,4 +45,4 @@ Untuk menyelesaikan penjabaran masalah ini, kami akan menggunakan :
 - Melakukan deployment.
 
 # Kesimpulan :
-Dengan menggunakan project ini pengguna dapat dengan mudah menentukan kapan saat yang tepat untuk melakukan investasi emas. berdasarkan waktu
+Dengan menggunakan project ini pengguna dapat dengan mudah menentukan kapan saat yang tepat untuk melakukan investasi emas. Secara keseluruhan, proyek ini dapat dianggap sebagai sukses karena berhasil mencapai tujuan, memberikan hasil yang baik, dan memiliki potensi untuk memberikan manfaat praktis. Kesimpulan ini dapat menjadi dasar untuk merekomendasikan atau menerapkan model machine learning ini dalam skala lebih besar atau dalam konteks bisnis yang lebih luas.
