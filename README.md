@@ -28,7 +28,7 @@ Tujuan proyek ini adalah menghasilkan model forecasting yang handal untuk mempre
 
 ### Solusi yang Dilakukan :
 
-- Untuk menyelesaikan penjabaran masalah ini, kami akan menggunakan : Model terbaik dengan membandingkan  Model Linear Regretion, Random Forest, Arima, Sarima, Smooth dan yang paling baik adalah Arima.
+Untuk menyelesaikan penjabaran masalah ini, kami akan menggunakan : Model terbaik dengan membandingkan  Model Linear Regretion, Random Forest, Arima, Sarima, Smooth dan yang paling baik adalah Arima.
 
 ---
 # Proses yang di lakukan 
