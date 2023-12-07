@@ -14,10 +14,10 @@
 - Batch       : FTDS_BSD_2
 - Datasets    : Gold Price Tahun 2013-2023
 ---
-#### Pernyataan Masalah :
+### Pernyataan Masalah :
 Perkembangan harga emas sangat penting untuk para investor, pelaku pasar, dan pihak terkait lainnya. Oleh karena itu, perlu adanya suatu metode forecasting yang dapat membantu dalam memprediksi pergerakan harga emas di masa mendatang. Pernyataan masalah yang muncul adalah bagaimana mengembangkan model forecasting yang akurat untuk memprediksi harga emas dengan mempertimbangkan berbagai faktor yang memengaruhi pergerakan harga tersebut.
 
-#### Tujuan : 
+### Tujuan : 
  
 Tujuan proyek ini adalah menghasilkan model forecasting yang handal untuk memprediksi pergerakan harga emas, memberikan dasar informasi yang kuat bagi para pemangku kepentingan.
 
@@ -26,9 +26,8 @@ Tujuan proyek ini adalah menghasilkan model forecasting yang handal untuk mempre
 
 - Rekomendasi harga emas yang di keluarkan masing-masing perusahaan. 
 
-#### Solusi yang Dilakukan :
-Untuk menyelesaikan penjabaran masalah ini, kami akan menggunakan : 
-- Model terbaik dengan membandingkan  Model Linear Regretion, Random Forest, Arima, Sarima, Smooth dan yang paling baik adalah Arima.
+### Solusi yang Dilakukan :
+Untuk menyelesaikan penjabaran masalah ini, kami akan menggunakan : Model terbaik dengan membandingkan  Model Linear Regretion, Random Forest, Arima, Sarima, Smooth dan yang paling baik adalah Arima.
 ---
 # Proses yang di lakukan 
 1. Data Engineering : 
